@@ -1,0 +1,10 @@
+d:\os_files\documents\visual studio 2013\Projects\RaphaelArnaldoCruz\RaphaelArnaldoCruz\bin\Debug\RaphaelArnaldoCruz.exe.config
+d:\os_files\documents\visual studio 2013\Projects\RaphaelArnaldoCruz\RaphaelArnaldoCruz\bin\Debug\RaphaelArnaldoCruz.exe
+d:\os_files\documents\visual studio 2013\Projects\RaphaelArnaldoCruz\RaphaelArnaldoCruz\bin\Debug\RaphaelArnaldoCruz.pdb
+d:\os_files\documents\visual studio 2013\Projects\RaphaelArnaldoCruz\RaphaelArnaldoCruz\bin\Debug\RaphaelArnaldoCruz.xml
+d:\os_files\documents\visual studio 2013\Projects\RaphaelArnaldoCruz\RaphaelArnaldoCruz\obj\Debug\RaphaelArnaldoCruz.Form1.resources
+d:\os_files\documents\visual studio 2013\Projects\RaphaelArnaldoCruz\RaphaelArnaldoCruz\obj\Debug\RaphaelArnaldoCruz.Resources.resources
+d:\os_files\documents\visual studio 2013\Projects\RaphaelArnaldoCruz\RaphaelArnaldoCruz\obj\Debug\RaphaelArnaldoCruz.vbproj.GenerateResource.Cache
+d:\os_files\documents\visual studio 2013\Projects\RaphaelArnaldoCruz\RaphaelArnaldoCruz\obj\Debug\RaphaelArnaldoCruz.exe
+d:\os_files\documents\visual studio 2013\Projects\RaphaelArnaldoCruz\RaphaelArnaldoCruz\obj\Debug\RaphaelArnaldoCruz.xml
+d:\os_files\documents\visual studio 2013\Projects\RaphaelArnaldoCruz\RaphaelArnaldoCruz\obj\Debug\RaphaelArnaldoCruz.pdb
